@@ -1,6 +1,27 @@
 [
-  {"name": "Brand Alpha", "instagram": "@brandalpha", "tiktok": "@brandalpha"},
-  {"name": "Studio Nova", "instagram": "@studionova", "tiktok": "@studionova_tt"},
-  {"name": "Luxe Co.", "instagram": "@luxeco", "tiktok": "@luxeco_official"},
-  {"name": "Peak Ventures", "instagram": "@peakventures", "tiktok": "@peakv"}
+  {
+    "name": "Brand Alpha",
+    "instagram": "@brandalpha",
+    "tiktok": "@brandalpha"
+  },
+  {
+    "name": "Studio Nova",
+    "instagram": "@studionova",
+    "tiktok": "@studionova_tt"
+  },
+  {
+    "name": "Luxe Co.",
+    "instagram": "@luxeco",
+    "tiktok": "@luxeco_official"
+  },
+  {
+    "name": "Peak Ventures",
+    "instagram": "@peakventures",
+    "tiktok": "@peakv"
+  },
+  {
+    "name": "tape up meida",
+    "instagram": "hallel.shapira",
+    "tiktok": "hallelshapira"
+  }
 ]
