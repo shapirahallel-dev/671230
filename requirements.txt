@@ -1,0 +1,10 @@
+# Dashboard
+streamlit==1.35.0
+pandas==2.2.2
+plotly==5.22.0
+
+# Social API connectors
+requests==2.32.3
+
+# Utilities
+python-dotenv==1.0.1
